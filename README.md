@@ -17,5 +17,7 @@ para evaluar el impacto de la reducción de dimensionalidad en el rendimiento de
 
 ## Autores
 Percy Fuentes
+
 Karina Romero
+
 Juan Miranda
